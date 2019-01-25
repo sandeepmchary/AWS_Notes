@@ -1,6 +1,6 @@
 # From Terminal
 '''
-curl http://<private ip>/latest/meta-data/instance-type
+curl http://'<private ip>'/latest/meta-data/instance-type
 '''
 
 # From Dashboard
