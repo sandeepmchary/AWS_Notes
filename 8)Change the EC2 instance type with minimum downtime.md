@@ -1,6 +1,6 @@
 # From Terminal
 '''
-curl http://
+<pre> curl http://*private-ip*/latest/meta-data/instance-type</pre>
 '''
 
 # From Dashboard
@@ -9,6 +9,3 @@ curl http://
 * change instance-type
 * Change the type
 * Apply
-
-<pre> curl http://<private-ip>/latest/meta-data/instance-type
-</pre> ==$0
