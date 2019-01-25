@@ -1,5 +1,5 @@
 * This can be done while enabling the instance or running the instance
-> Select the instance,then in the description check for TERMINATION PROTECTION -- FALSE
+* Select the instance,then in the description check for TERMINATION PROTECTION -- FALSE
 * ACTIONS
 * INSTANCE SETTINGS
 * CAHNGE TERMINATION PROTECTION
