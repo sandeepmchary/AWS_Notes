@@ -2,6 +2,12 @@
 automatically remove old or unused ebs-snapshots
 create and deploy lambda function
 * managing costs
+ TO CREATE A Snapshot
+ VOLUMES
+ SELECT THE VOLUME
+ ACTIONS
+ CREATE THE Snapshot
+ 
 </pre>
 
 # Serverless Janitor for EBS Snapshots
