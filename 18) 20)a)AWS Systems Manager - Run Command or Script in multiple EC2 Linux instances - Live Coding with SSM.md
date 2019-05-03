@@ -12,6 +12,7 @@
 - role name: Ec2-role-for-ssm
 - create role
 - create 2 instances
+- select role Ec2-role-for-ssm
 - go to Advanced Detials
 
 * # install AWS SSM
